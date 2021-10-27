@@ -1,0 +1,14 @@
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\Taranu.exe.config
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.dll
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.GLControl.dll
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.pdb
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.xml
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.GLControl.pdb
+D:\Probleme informatica\OpenGL\Taranu\Taranu\bin\Debug\OpenTK.GLControl.xml
+D:\Probleme informatica\OpenGL\Taranu\Taranu\obj\Debug\Taranu.csproj.AssemblyReference.cache
+D:\Probleme informatica\OpenGL\Taranu\Taranu\obj\Debug\Taranu.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\OpenGL\Taranu\Taranu\obj\Debug\Taranu.csproj.CopyComplete
+D:\Probleme informatica\OpenGL\Taranu\Taranu\obj\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Taranu\Taranu\obj\Debug\Taranu.pdb
