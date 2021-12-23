@@ -1,0 +1,39 @@
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\obj\Debug\Taranu.csproj.AssemblyReference.cache
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\obj\Debug\Taranu.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\Taranu.exe.config
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.dll
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.GLControl.dll
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.xml
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.GLControl.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\bin\Debug\OpenTK.GLControl.xml
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\obj\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 4 nou\Taranu\obj\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\Taranu.exe.config
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.dll
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.GLControl.dll
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.xml
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.GLControl.pdb
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\bin\Debug\OpenTK.GLControl.xml
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\obj\Debug\Taranu.csproj.AssemblyReference.cache
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\obj\Debug\Taranu.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\obj\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 4 nou - V2\Taranu\obj\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\Taranu.exe.config
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\Taranu.pdb
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.dll
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.GLControl.dll
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.pdb
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.xml
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.GLControl.pdb
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\bin\Debug\OpenTK.GLControl.xml
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\obj\Debug\Taranu.csproj.AssemblyReference.cache
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\obj\Debug\Taranu.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\obj\Debug\Taranu.exe
+D:\Probleme informatica\OpenGL\Lab 5\Taranu\obj\Debug\Taranu.pdb

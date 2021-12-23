@@ -1,0 +1,7 @@
+D:\Probleme informatica\Taranu\Taranu\Lab4\bin\Debug\Lab4.exe.config
+D:\Probleme informatica\Taranu\Taranu\Lab4\bin\Debug\Lab4.exe
+D:\Probleme informatica\Taranu\Taranu\Lab4\bin\Debug\Lab4.pdb
+D:\Probleme informatica\Taranu\Taranu\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Probleme informatica\Taranu\Taranu\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\Taranu\Taranu\Lab4\obj\Debug\Lab4.exe
+D:\Probleme informatica\Taranu\Taranu\Lab4\obj\Debug\Lab4.pdb

@@ -1,0 +1,14 @@
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\Lab8.exe.config
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\Lab8.exe
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\Lab8.pdb
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\OpenTK.dll
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\OpenTK.GLControl.dll
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\OpenTK.xml
+D:\Probleme informatica\Taranu\Taranu\Lab8\bin\Debug\OpenTK.GLControl.xml
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.Form1.resources
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.csproj.CopyComplete
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.exe
+D:\Probleme informatica\Taranu\Taranu\Lab8\obj\Debug\Lab8.pdb
